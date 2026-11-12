@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "میز تاتا",
+      "hasCanvas": false,
+      "bodyTextLen": 3560,
+      "bodyTextHash": "115427101cd05036a283978da0ba8460b3220407029c58edcf89623ed84faffe",
+      "bodyTextPrefix": "ت کافه فرهنگ گاچو میز تاتا میز امضا ۳ برنامه دفتر ایجنت‌ها شب‌نا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "میز تاتا",
+      "hasCanvas": false,
+      "bodyTextLen": 3442,
+      "bodyTextHash": "67b92631e9ccc3d232e80f7021c5de14ffbf7d6f0595bb4ea2551289f7f1c370",
+      "bodyTextPrefix": "ت پنجشنبه ۲۱ آبان تهران ۰۶:۰۱·ناظر: حمزه تاتا حمزه راهبر محتوا م",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
